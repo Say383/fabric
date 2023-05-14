@@ -5,7 +5,6 @@ change-output.md
 /node_modules/
 /npm-debug.log
 before_commit
-/coverage/
 .idea/
 /dist
 /cli_output/
